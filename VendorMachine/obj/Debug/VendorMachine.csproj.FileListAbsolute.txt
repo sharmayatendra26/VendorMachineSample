@@ -1,0 +1,6 @@
+C:\Users\ysharma\Desktop\Test\VendorMachine\VendorMachine\bin\Debug\VendorMachine.exe.config
+C:\Users\ysharma\Desktop\Test\VendorMachine\VendorMachine\obj\Debug\VendorMachine.csprojResolveAssemblyReference.cache
+C:\Users\ysharma\Desktop\Test\VendorMachine\VendorMachine\bin\Debug\VendorMachine.exe
+C:\Users\ysharma\Desktop\Test\VendorMachine\VendorMachine\bin\Debug\VendorMachine.pdb
+C:\Users\ysharma\Desktop\Test\VendorMachine\VendorMachine\obj\Debug\VendorMachine.exe
+C:\Users\ysharma\Desktop\Test\VendorMachine\VendorMachine\obj\Debug\VendorMachine.pdb
